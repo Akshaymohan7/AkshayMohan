@@ -17,9 +17,9 @@
 
 | Project | Description | Technologies | Key Results |
 |---------|-------------|--------------|-------------|
-| **[NHS Patient Wait Times Analysis](link)** | Identified bottlenecks in UK healthcare system | Power BI, SQL, Python | 22% reduction potential in wait times |
-| **[Retail Sales Optimization](link)** | Demand forecasting for UK e-commerce | Python, Tableau, AWS | 10% revenue increase |
-| **[IT Ticket Automation System](link)** | Automated support ticket classification | PowerShell, Excel, JIRA | 30% faster resolution |
+| **[Sentimental Analysis on Videos](https://github.com/Akshaymohan7/Sentimental-analysis-on-videos)** | Combination of text sentimental analysis and facial emotion detection | Google Colab, Python, scikit-learn, Excel | Compared the accuracy for different models |
+| **[House Price Prediction](https://github.com/Akshaymohan7/House-Price-Prediction-Linear-Regression)** | Basic house price prediction model using ML | Python, Jupyter Notebook | Accuracy above 90% |
+| **[Employee Data Analysis](https://github.com/Akshaymohan7/Employee-Data-Analysis)** | Data exploration using SQL  | SQL, Excel, Xampp | Educational purpose |
 
 ---
 
