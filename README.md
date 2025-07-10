@@ -13,13 +13,31 @@
 
 ---
 
-### 🚀 Data Analytics Portfolio Projects
+### 🚀 Data Analytics Projects
 
-| Project | Description | Technologies | Key Results |
-|---------|-------------|--------------|-------------|
-| **[Sentimental Analysis on Videos](https://github.com/Akshaymohan7/Sentimental-analysis-on-videos)** | Combination of text sentimental analysis and facial emotion detection | Google Colab, Python, scikit-learn, Excel | Compared the accuracy for different models |
-| **[House Price Prediction](https://github.com/Akshaymohan7/House-Price-Prediction-Linear-Regression)** | Basic house price prediction model using ML | Python, Jupyter Notebook | Accuracy above 90% |
-| **[Employee Data Analysis](https://github.com/Akshaymohan7/Employee-Data-Analysis)** | Data exploration using SQL  | SQL, Excel, Xampp | Educational purpose |
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **[Sentimental Analysis on Videos](https://github.com/Akshaymohan7/Sentimental-analysis-on-videos)** | Combination of text sentimental analysis and facial emotion detection | Google Colab, Python, scikit-learn, Excel | 
+| **[House Price Prediction](https://github.com/Akshaymohan7/House-Price-Prediction-Linear-Regression)** | Basic house price prediction model using ML | Python, Jupyter Notebook |
+| **[Employee Data Analysis](https://github.com/Akshaymohan7/Employee-Data-Analysis)** | Data exploration using SQL  | SQL, Excel, Xampp |
+
+
+
+
+
+---
+
+### 📈 Data Visualization Projects
+
+| Project | Description | Key Findings |
+|---------|-------------|--------------|
+| **[pro1](link)** | about | findings | 
+| **[pro2](link)** | about | findings | 
+| **[pro3](link)** | about | findings | 
+
+
+
+
 
 ---
 
