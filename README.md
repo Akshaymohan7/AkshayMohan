@@ -49,8 +49,10 @@
 ### 💼 Professional Experience
 **Digital Transformation Analyst** @ Agasthya Bharatha (Remote)  | `Dec 2023 - Jun 2025`  
 
-
 **Application Support Engineer** @ Tutorcomp  | `Nov 2021 - Aug 2022`  
+
+**Network Engineer Intern** @ CTS Infotech  | `May 2021 - Nov 2021`  
+
  
 
 ---
