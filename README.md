@@ -37,8 +37,6 @@
 
 
 
-
-
 ---
 
 ### 💻 Core Technical Skills
@@ -75,11 +73,22 @@
 
 ---
 
+### 📈 Practical job simulation Experience
+
+| Name | Skills Gained | Verification | Provider |
+|---------|-------------|--------------|--------|
+| **[pro1](link)** | about | [link](link) | findings |
+| **[pro2](link)** | about | [link](link) | findings |
+| **[pro3](link)** | about | [link](link) | findings |
+
+
+
+---
+
 ### 📚 Education
 **MSc Data Science**  | University of Roehampton, London `2023`  
 
 **BTech Electronics & Communication Engineering**  | APJ Abdul Kalam Technological University `2020`  
-
 
 <!--
 ---
