@@ -8,9 +8,7 @@
   <a href="https://www.instagram.com/akshay_mo_han/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:akshaymohanofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+
 </p>
 
 ---
@@ -31,43 +29,39 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-FFB900?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Cloud & Infrastructure**  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
+**Business Intelligence**  
+![Data_Modeling](https://img.shields.io/badge/Data_Modeling-01A4EF?style=for-the-badge&logo=powerbi&logoColor=white)
+![KPI_Tracking](https://img.shields.io/badge/KPI_Tracking-FF6B6B?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Data_Storytelling](https://img.shields.io/badge/Data_Storytelling-6F42C1?style=for-the-badge&logo=storybook&logoColor=white)
 
-### 🏆 Certifications
-- **Microsoft Certified**: Power BI Data Analyst Associate (PL300) 
-- **Azure Data Fundamentals** (DP-900)
-- **AWS Cloud Practitioner** 
-- Google IT Support Professional
-
+**IT Infrastructure**  
+![Active_Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ---
 
 ### 💼 Professional Experience
-**Digital Transformation Lead** @ Agasthya Bharatha (Remote)  
-`Dec 2023 - Jun 2025`  
-✅ Built 5+ Power BI dashboards improving data accessibility by 25%  
-✅ Automated reporting saving 15+ hours/week using Python  
-✅ Implemented security-compliant cloud solutions  
+**Digital Transformation Analyst** @ Agasthya Bharatha (Remote)  | `Dec 2023 - Jun 2025`  
 
-**Application Support Engineer** @ Tutorcomp  
-`Nov 2021 - Aug 2022`  
-✅ Increased client satisfaction by 45% through data-driven solutions  
-✅ Managed 3000+ user accounts in learning management systems  
+
+**Application Support Engineer** @ Tutorcomp  | `Nov 2021 - Aug 2022`  
+ 
 
 ---
 
 ### 📚 Education
-**MSc Data Science**  
-University of Roehampton, London `2023`  
+**MSc Data Science**  | University of Roehampton, London `2023`  
 
-**BTech Electronics & Communication**  
-APJ Abdul Kalam Technological University `2020`  
+**BTech Electronics & Communication Engineering**  | APJ Abdul Kalam Technological University `2020`  
 
+
+<!--
 ---
 
 ### 📈 GitHub Stats
@@ -75,3 +69,4 @@ APJ Abdul Kalam Technological University `2020`
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak"/>
 </p>
+-->
