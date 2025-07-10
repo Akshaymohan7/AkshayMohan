@@ -29,21 +29,21 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-FFB900?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-FFB900?style=flat-square&logo=powerbi&logoColor=black)
 
-**Cloud & Infrastructure**  
+**Cloud & IT**  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Active_Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 **Business Intelligence**  
-![Data_Modeling](https://img.shields.io/badge/Data_Modeling-01A4EF?style=for-the-badge&logo=powerbi&logoColor=white)
-![KPI_Tracking](https://img.shields.io/badge/KPI_Tracking-FF6B6B?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Data_Storytelling](https://img.shields.io/badge/Data_Storytelling-6F42C1?style=for-the-badge&logo=storybook&logoColor=white)
+![Data_Modeling](https://img.shields.io/badge/Data_Modeling-01A4EF?style=flat-square&logo=powerbi&logoColor=white)
+![KPI_Tracking](https://img.shields.io/badge/KPI_Tracking-FF6B6B?style=flat-square&logo=google-analytics&logoColor=white)
+![Data_Storytelling](https://img.shields.io/badge/Data_Storytelling-6F42C1?style=flat-square&logo=storybook&logoColor=white)
 
-**IT Infrastructure**  
-![Active_Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
 ---
 
 ### 💼 Professional Experience
