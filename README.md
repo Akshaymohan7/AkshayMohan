@@ -65,22 +65,22 @@
 ### 💼 Professional Experience
 **Digital Transformation Analyst** @ Agasthya Bharatha (Remote)  | `Dec 2023 - Jun 2025`  
 
-**Application Support Engineer** @ Tutorcomp  | `Nov 2021 - Aug 2022`  
+**Application Support Engineer**   @ Tutorcomp                   | `Nov 2021 - Aug 2022`  
 
-**Network Engineer Intern** @ CTS Infotech  | `May 2021 - Nov 2021`  
+**Network Engineer Intern**        @ CTS Infotech                | `May 2021 - Nov 2021`  
 
  
 
 ---
 
-### 📈 Practical job simulation Experience
+### 📈 Virtual Job Simulations & Projects
 
-| Name | Provider | Skills Gained |
-|---------|-------------|--------|
-| **[Excel Skills Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/JPMorgan%20Chase%20Corporate/XiuvjcwqWRqH9oy38_JPMorgan%20Chase%20&%20Co._5B3NPjBQKwgKR2jHK_1707250733446_completion_certificate.pdf)** | JPMorgan & Co. | Advanced Excel,  Automation, Data Visualization & Storytelling |
-| **[Data Analytics and Visualization Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_5B3NPjBQKwgKR2jHK_1707306064729_completion_certificate.pdf)** | Accenture | Data Analysis, Insight Generation, Client Advisory |
-| **[Data Visualisation: Empowering Business with Effective Insights Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata%20Group_5B3NPjBQKwgKR2jHK_1708339252587_completion_certificate.pdf)** | Tata | Data Visualization, Client Communication, Decision Support |
-| **[Cybersecurity Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_5B3NPjBQKwgKR2jHK_1715603216146_completion_certificate.pdf)** | Mastercard | Cybersecurity Analysis, Security Awareness, Threat Identification |
+| Job Simulation | Skills Gained |
+|----------------|---------------|
+| **[JPMorgan & Co: Excel Skills](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/JPMorgan%20Chase%20Corporate/XiuvjcwqWRqH9oy38_JPMorgan%20Chase%20&%20Co._5B3NPjBQKwgKR2jHK_1707250733446_completion_certificate.pdf)** | Advanced Excel,  Automation, Data Visualization & Storytelling |
+| **[Accenture: Data Analytics and Visualization](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_5B3NPjBQKwgKR2jHK_1707306064729_completion_certificate.pdf)** | Data Analysis, Insight Generation, Client Advisory |
+| **[Tata: Data Visualisation: Empowering Business with Effective Insights](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata%20Group_5B3NPjBQKwgKR2jHK_1708339252587_completion_certificate.pdf)** | Data Visualization, Client Communication, Decision Support |
+| **[Mastercard: Cybersecurity](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_5B3NPjBQKwgKR2jHK_1715603216146_completion_certificate.pdf)** | Cybersecurity Analysis, Security Awareness, Threat Identification |
 
 
 
