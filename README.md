@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Akshay Mohan! 👋</h1>
 <h3 align="center">Data Analyst | Power BI Specialist | Cloud Solutions</h3>
+<h3 align="center">AZ-900 Loading. . .</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mohanakshay" target="_blank">
