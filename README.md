@@ -13,6 +13,14 @@
   -->
 
 </p>
+---
+
+### 🚀 Azure Projects
+
+| Project | Topics     | Description |
+|---------|------------|--------------|
+| **[Core Services Sandbox](https://github.com/Akshaymohan7/Sentimental-analysis-on-videos)** | Resource Groups, Linux VM Deployment, Blob Storage, NSG Rules, SSH Access | Deploy a Linux VM, create a storage account, upload a file, apply network rules, and test access. | 
+
 
 ---
 
