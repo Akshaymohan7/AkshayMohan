@@ -104,9 +104,11 @@
 ### 📚 Education
 **MSc Data Science**  | University of Roehampton, London `2023`  
 
+**Network Engineering**  | IIAT, India `2021` 
+
 **BTech Electronics & Communication Engineering**  | APJ Abdul Kalam Technological University `2020`  
 
-<!--
+
 ---
 
 ### 📈 GitHub Stats
@@ -114,4 +116,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak"/>
 </p>
--->
