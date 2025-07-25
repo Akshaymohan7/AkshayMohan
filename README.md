@@ -31,10 +31,10 @@
 | **[Sentimental Analysis on Videos](https://github.com/Akshaymohan7/Sentimental-analysis-on-videos)** | Combination of text sentimental analysis and facial emotion detection | Google Colab, Python, scikit-learn, Excel | 
 | **[House Price Prediction](https://github.com/Akshaymohan7/House-Price-Prediction-Linear-Regression)** | Basic house price prediction model using ML | Python, Jupyter Notebook |
 | **[Employee Data Analysis](https://github.com/Akshaymohan7/Employee-Data-Analysis)** | Data exploration using SQL  | SQL, Excel, Xampp |
-| **[Patient Workflow Automation](link)** | Digitized patient intake, feedback, and appointment tracking, improving coordination and cutting manual workload  | Python, Excel |
-| **[Healthcare KPI Dashboards](link)** | Created operational dashboards to monitor clinical and business KPIs. Used by leadership for faster, data-driven decisions  | Power BI, SQL, Excel |
-| **[Marketing ROI Analysis](link)** | Analyzed multi-channel marketing campaigns to identify high-performing platforms and optimize budget allocation  | SQL, Excel |
-| **[Smart Inhaler for Asthma Monitoring](link)** | Built a connected inhaler prototype to track usage and environmental conditions. Received innovation funding from IEI and CERD  | Embedded Systems, Sensors |
+| **[Patient Workflow Automation](https://github.com/mohan-akshay/patiant_workflow)** | Digitized patient intake, feedback, and appointment tracking, improving coordination and cutting manual workload  | Python, Excel |
+| **[Healthcare KPI Dashboards](https://github.com/mohan-akshay/Healthcare_KPI)** | Created operational dashboards to monitor clinical and business KPIs. Used by leadership for faster, data-driven decisions  | Power BI, SQL, Excel |
+| **[Marketing ROI Analysis](https://github.com/mohan-akshay/Marketing_ROI)** | Analyzed multi-channel marketing campaigns to identify high-performing platforms and optimize budget allocation  | SQL, Excel |
+| **[Smart Inhaler for Asthma Monitoring](https://github.com/mohan-akshay/Smart_Inhaler)** | Built a connected inhaler prototype to track usage and environmental conditions. Received innovation funding from IEI and CERD  | Embedded Systems, Sensors |
 
 
 <!--| **[project_name](link)** | about | findings | 
@@ -47,10 +47,11 @@
 
 ### 📈 Data Visualization Projects
 
-| Project | Description | Key Findings |
+| Project | Description | Tools Used |
 |---------|-------------|--------------|
-| **[Covid-19 Visualization](https://public.tableau.com/views/Covid-19CW1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** | Designed an interactive dashboard to track global COVID-19 cases, deaths, and recoveries across time and geography. Users can filter by country, region, and date to explore case trends and compare impact | findings | 
-| **[Netflix Dashboard](https://public.tableau.com/views/Netflix_Dashboard_17467027784190/Netflix?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** | Built a visual dashboard analyzing the Netflix content library. Explored trends in genre, release year, content rating, and country distribution using filters and KPIs. | findings | 
+| **[Covid-19 Visualization](https://public.tableau.com/views/Covid-19CW1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** | Designed an interactive dashboard to track global COVID-19 cases, deaths, and recoveries across time and geography. Users can filter by country, region, and date to explore case trends and compare impact | Excel, Tableau | 
+| **[Netflix Dashboard](https://public.tableau.com/views/Netflix_Dashboard_17467027784190/Netflix?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** | Built a visual dashboard analyzing the Netflix content library. Explored trends in genre, release year, content rating, and country distribution using filters and KPIs. | Excel, Tableau | 
+| **[Data Professional Salary Breakdown](https://github.com/mohan-akshay/Salary_breakdown)** | Analyzed global salary trends for data professionals including Data Analysts, Data Scientists, and Machine Learning Engineers | Power Query, Power BI |
 
 <!--| **[project_name](link)** | about | findings | 
 -->
