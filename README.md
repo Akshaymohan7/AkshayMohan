@@ -30,7 +30,7 @@
 -->
 
 ---
-### ☁️ Azure cloud Mini-Projects
+### ☁️ Azure AZ-900 Projects
 
 | Project | Topics     | Description |
 |---------|------------|--------------|
