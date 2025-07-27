@@ -117,6 +117,6 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohan-akshay&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohan-akshay&theme=dark" alt="GitHub Streak"/>
 </p>
