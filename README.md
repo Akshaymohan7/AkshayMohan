@@ -8,16 +8,6 @@
   </a>
 </p>
 
----
-### ☁️ Azure Projects
-
-| Project | Topics     | Description |
-|---------|------------|--------------|
-| **[Core Services Sandbox](https://github.com/mohan-akshay/01_Azure_project)** | Resource Groups, Linux VM Deployment, Blob Storage, NSG Rules, SSH Access | Deploy a Linux VM, create a storage account, upload a file, apply network rules, and test access. | 
-| **[Cost Monitoring & Tagging](./https://github.com/mohan-akshay/02_Cost_monitoring)** | Azure Cost Management, Tagging, Budget Alerts | Track Azure spending using tags, set budget alerts, and analyze costs at the subscription level. |
-| **[Azure AD Identity Protection](https://github.com/mohan-akshay/03_AD_ID_protection)** | Azure AD, MFA, Conditional Access | Configure users, enforce MFA, and block logins from outside specific regions. |
-| **[Static Website Hosting](https://github.com/mohan-akshay/04_static_web_host)** | Azure Storage, Static Websites, HTML Hosting | Host a basic HTML website using Azure Blob Storage with public access via web endpoint. |
-| **[Basic Monitoring & Alerts](https://github.com/mohan-akshay/05_VM_monitoring)** | Azure Monitor, VM Alerts, Action Groups | Monitor VM CPU usage and send email alerts when thresholds are exceeded. |
 
 
 ---
@@ -39,6 +29,16 @@
 <!--| **[project_name](link)** | about | findings | 
 -->
 
+---
+### ☁️ Azure cloud Mini-Projects
+
+| Project | Topics     | Description |
+|---------|------------|--------------|
+| **[Core Services Sandbox](https://github.com/mohan-akshay/01_Azure_project)** | Resource Groups, Linux VM Deployment, Blob Storage, NSG Rules, SSH Access | Deploy a Linux VM, create a storage account, upload a file, apply network rules, and test access. | 
+| **[Cost Monitoring & Tagging](./https://github.com/mohan-akshay/02_Cost_monitoring)** | Azure Cost Management, Tagging, Budget Alerts | Track Azure spending using tags, set budget alerts, and analyze costs at the subscription level. |
+| **[Azure AD Identity Protection](https://github.com/mohan-akshay/03_AD_ID_protection)** | Azure AD, MFA, Conditional Access | Configure users, enforce MFA, and block logins from outside specific regions. |
+| **[Static Website Hosting](https://github.com/mohan-akshay/04_static_web_host)** | Azure Storage, Static Websites, HTML Hosting | Host a basic HTML website using Azure Blob Storage with public access via web endpoint. |
+| **[Basic Monitoring & Alerts](https://github.com/mohan-akshay/05_VM_monitoring)** | Azure Monitor, VM Alerts, Action Groups | Monitor VM CPU usage and send email alerts when thresholds are exceeded. |
 
 
 
