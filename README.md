@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Akshay Mohan! 👋</h1>
 <h3 align="center">Data & Cloud Solutions Specialist | Power BI Expert | Azure Certified</h3>
-<h3 align="center">Azure Fundamentals Certified | 5 Hands-On Projects</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mohanakshay" target="_blank">
