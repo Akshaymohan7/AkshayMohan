@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Akshay Mohan! 👋</h1>
-<h3 align="center">Data Analyst | Power BI Specialist | Cloud Solutions</h3>
-<h3 align="center">AZ-900 Loading. . .</h3>
+<h3 align="center">Data & Cloud Solutions Specialist | Power BI Expert | Azure Certified</h3>
+<h3 align="center">Azure Fundamentals Certified | 5 Hands-On Projects</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mohanakshay" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
 
+</p>
 
 
 ---
@@ -32,15 +32,17 @@
 ---
 ### ☁️ Azure AZ-900 Projects
 
-| Project | Topics     | Description |
-|---------|------------|--------------|
-| **[Core Services Sandbox](https://github.com/mohan-akshay/01_Azure_project)** | Resource Groups, Linux VM Deployment, Blob Storage, NSG Rules, SSH Access | Deploy a Linux VM, create a storage account, upload a file, apply network rules, and test access. | 
-| **[Cost Monitoring & Tagging](./https://github.com/mohan-akshay/02_Cost_monitoring)** | Azure Cost Management, Tagging, Budget Alerts | Track Azure spending using tags, set budget alerts, and analyze costs at the subscription level. |
-| **[Azure AD Identity Protection](https://github.com/mohan-akshay/03_AD_ID_protection)** | Azure AD, MFA, Conditional Access | Configure users, enforce MFA, and block logins from outside specific regions. |
-| **[Static Website Hosting](https://github.com/mohan-akshay/04_static_web_host)** | Azure Storage, Static Websites, HTML Hosting | Host a basic HTML website using Azure Blob Storage with public access via web endpoint. |
-| **[Basic Monitoring & Alerts](https://github.com/mohan-akshay/05_VM_monitoring)** | Azure Monitor, VM Alerts, Action Groups | Monitor VM CPU usage and send email alerts when thresholds are exceeded. |
+| Project | Concepts | Key Achievements | 
+|---------|----------|------------------|
+| [Core Services Sandbox](https://github.com/mohan-akshay/01_Azure_project) | **Resource Groups, Linux VM, Blob Storage, NSGs** | Deployed cost-optimized VM (B1s), blocked HTTP traffic via NSG rules, managed storage lifecycle |
+| [Cost Monitoring & Tagging](https://github.com/mohan-akshay/02_Cost_monitoring) | **Cost Management, Tagging, Budget Alerts** | Implemented resource tagging strategy, set $0.01 budget alerts, generated cost reports |
+| [Azure AD Identity Protection](https://github.com/mohan-akshay/03_AD_ID_protection) | **Azure AD, MFA, Conditional Access** | Enforced region-based access policies, configured MFA, analyzed sign-in logs |
+| [Static Website Hosting](https://github.com/mohan-akshay/04_static_web_host) | **Blob Storage, Static Sites, PaaS** | Hosted serverless HTML site using Azure Storage $web container |
+| [Basic Monitoring & Alerts](https://github.com/mohan-akshay/05_VM_monitoring) | **Azure Monitor, Metrics, Action Groups** | Created CPU threshold alerts, simulated load with stress-ng, validated notifications |
 
-
+> **All projects completed using Azure Free Tier services**  
+> - Zero-cost implementation with automatic cleanup  
+> - Covers 90%+ of AZ-900 exam objectives  
 
 ---
 
@@ -69,9 +71,9 @@
 
 **Cloud & IT**  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Active_Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![AzureAD](https://img.shields.io/badge/Azure_AD-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![AzureMonitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![CostManagement](https://img.shields.io/badge/Cost_Management-01A4EF?style=flat-square)
 
 **Business Intelligence**  
 ![Data_Modeling](https://img.shields.io/badge/Data_Modeling-01A4EF?style=flat-square&logo=powerbi&logoColor=white)
