@@ -24,7 +24,6 @@
 | **[House Price Prediction](https://github.com/Akshaymohan7/House-Price-Prediction-Linear-Regression)** | Basic house price prediction model using ML | Python, Jupyter Notebook |
 
 
-
 <!--| **[project_name](link)** | about | findings | 
 -->
 
@@ -38,6 +37,8 @@
 | [Azure AD Identity Protection](https://github.com/mohan-akshay/03_AD_ID_protection) | **Azure AD, MFA, Conditional Access** | Enforced region-based access policies, configured MFA, analyzed sign-in logs |
 | [Static Website Hosting](https://github.com/mohan-akshay/04_static_web_host) | **Blob Storage, Static Sites, PaaS** | Hosted serverless HTML site using Azure Storage $web container |
 | [Basic Monitoring & Alerts](https://github.com/mohan-akshay/05_VM_monitoring) | **Azure Monitor, Metrics, Action Groups** | Created CPU threshold alerts, simulated load with stress-ng, validated notifications |
+| **[Azure Static Website with CI/CD](https://github.com/mohan-akshay/06_azure_static_CICD)** | Hosted a modern static website using Azure Static Web Apps with CI/CD from GitHub, enabling content delivery, HTTPS, and auto-deployment on every commit | Azure Static Web Apps, GitHub Repository, GitHub Actions (CI/CD Pipeline) |
+
 
 > **All projects completed using Azure Free Tier services**  
 > - Zero-cost implementation with automatic cleanup  
